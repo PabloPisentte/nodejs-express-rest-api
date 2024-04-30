@@ -1,0 +1,22 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "juego": "Counter Strike 2",
+            "plataforma": "PC",
+            "año": 2022
+        },
+        {
+            "id": 2,
+            "juego": "Rocket League",
+            "plataforma": "Multiplataforma",
+            "año": 2016
+        },
+        {
+            "id": 3,
+            "juego": "Fornais",
+            "plataforma": "Multiplataforma",
+            "año": 2018
+        }
+    ]
+}
